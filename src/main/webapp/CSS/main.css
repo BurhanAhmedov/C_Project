@@ -1,0 +1,31 @@
+.header{
+    background-color: #363636;
+}
+
+li,a{
+    list-style: none;
+    text-decoration: none;
+    color: #e5dada;
+    float: left;
+    margin-right: 15px;
+    margin-left: 50px;
+}
+ul {
+    border: 20px solid;
+    color: #cb0a0a;
+    margin-top: 0%;
+
+}
+.footer{
+    background-color: #363636;
+    width: 100%;
+    height: 50px;
+    display:flex; align-items: flex-end; justify-content: center;
+    color: #e5dada;
+    font-family: "Comic Sans MS";
+}
+.main{
+    overflow-y: scroll;
+    width: 100%;
+    height: 80%;
+}
